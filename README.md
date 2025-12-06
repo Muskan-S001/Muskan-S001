@@ -1,16 +1,60 @@
-## Hi there 👋
+🌟 Muskan – DevOps Engineer | Learner | Problem Solver
 
-<!--
-**Muskan-S001/Muskan-S001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Muskan, a passionate DevOps Engineer who loves exploring how systems work from end to end.
+I enjoy building things, automating workflows, and learning new technologies every day.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Fresher DevOps Engineer
+
+☁️ Learning Azure, Snowflake, Airflow, Kubernetes, ETL pipelines
+
+🔧 Interested in automation, CI/CD, cloud, and data workflows
+
+💡 Curious thinker — always digging deeper to understand "why"
+
+🎯 Goal: Build strong fundamentals & become a skilled DevOps + Cloud engineer
+
+🛠️ Tech Stack & Tools
+DevOps & Cloud
+
+
+
+
+
+
+CI/CD & Workflow
+
+
+
+
+
+
+Data & ETL
+
+
+
+
+
+
+Tools I Use
+
+
+
+
+📊 GitHub Stats
+<div align="center">
+
+
+
+
+</div>
+🌼 Fun Facts
+
+📚 I’m always learning something new
+
+⚙️ I break → fix → automate
+
+✨ Inspired by hardworking people
+
+🚀 Dreaming of building something big someday
